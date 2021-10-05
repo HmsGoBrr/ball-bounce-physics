@@ -1,4 +1,4 @@
-# Ball Bounce Physics v0.5
+# Ball Bounce Physics v1.0
 
 Ball Bounce Physics for the game I'm working on at the moment.
 
@@ -6,7 +6,7 @@ Ball Bounce Physics for the game I'm working on at the moment.
 
 ![Ball Bounce Physics](./preview.gif)
 
-## Build Floppy Square
+## Build Ball Bounce Physics v1.0
 * VSCode
     1. [Install Raylib](https://github.com/raysan5/raylib/wiki)
     2. Open folder in [VSCode](https://code.visualstudio.com/)
