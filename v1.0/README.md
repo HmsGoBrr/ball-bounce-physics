@@ -9,7 +9,7 @@ Ball Bounce Physics for the game I'm working on at the moment.
 ## Build Floppy Square
 * VSCode
     1. [Install Raylib](https://github.com/raysan5/raylib/wiki)
-    2. Open Floppy Square in [VSCode](https://code.visualstudio.com/)
+    2. Open folder in [VSCode](https://code.visualstudio.com/)
     3. Run "build debug/release" task
 * Command line
     1. [Install Raylib](https://github.com/raysan5/raylib/wiki)
